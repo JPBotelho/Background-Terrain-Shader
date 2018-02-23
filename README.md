@@ -18,4 +18,4 @@ I color it using a ramp texture multiplied by a color.
 
 # Example
 
-![Terrain](Renders/Terrain.png "Terrain")
+![Terrain](Renders/Terrain.PNG "Terrain")
