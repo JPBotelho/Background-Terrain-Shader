@@ -19,3 +19,6 @@ I color it using a ramp texture multiplied by a color.
 # Example
 
 ![Terrain](Renders/Terrain.PNG "Terrain")
+
+# Consider buying me a coffee if you like my work (click the image)
+[![Foo](Renders/coffee.png)](https://www.buymeacoffee.com/ZcRuWpUBf)
